@@ -1,2 +1,2 @@
 # exp_time
-expermients with date &amp; time
+experiments with date &amp; time
